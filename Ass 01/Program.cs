@@ -26,13 +26,11 @@
     //                    swapped = true;
     //                }
     //            }
-
     //            // No swaps means the array is sorted
     //            if (!swapped)
     //                break;
     //        }
     //    }
-
     //    public static void PrintArray(int[] arr)
     //    {
     //        foreach (var item in arr)
@@ -52,7 +50,7 @@
     //OptimizedBubbleSort.PrintArray(numbers); 
     #endregion
 
-    #region PArt 02
+    #region Paart 02
     //    public class Range<T> where T : IComparable<T>
     //    {
     //        public T Min { get; private set; }
@@ -85,14 +83,14 @@
     //    }
 
 
-    //    var intRange = new Range<int>(10, 20);
+    //var intRange = new Range<int>(10, 20);
     //Console.WriteLine(intRange);                         // Output: Range: 10 to 20
     //Console.WriteLine(intRange.IsInRange(15));           // True
     //Console.WriteLine($"Length: {intRange.Length()}");   // 10
 
     //var doubleRange = new Range<double>(1.5, 3.5);
     //Console.WriteLine(doubleRange.IsInRange(2.1));       // True
-    //Console.WriteLine($"Length: {doubleRange.Length()}");// 2.0 
+    //Console.WriteLine($"Length: {doubleRange.Length()}");
     #endregion
 
 
